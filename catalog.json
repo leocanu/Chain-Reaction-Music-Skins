@@ -1,0 +1,91 @@
+{
+  "schemaVersion": 1,
+  "name": "Chain Reaction Music Skins",
+  "description": "Fondos seleccionados para el reproductor de Android.",
+  "skins": [
+    {
+      "id": "night",
+      "name": "Noche serena",
+      "image": "images/night.jpg",
+      "preview": "images/night.jpg",
+      "width": 736,
+      "height": 1319,
+      "bytes": 53954,
+      "sha256": "a34cb028ee57365f4038383f84262840f20c4b8b47c916f71d17dba16a5ec04c",
+      "palette": "from-image",
+      "license": null
+    },
+    {
+      "id": "island",
+      "name": "Isla turquesa",
+      "image": "images/island.jpg",
+      "preview": "images/island.jpg",
+      "width": 736,
+      "height": 1308,
+      "bytes": 44612,
+      "sha256": "39e272964be025235363a4cc510a359fcae408457dc003f6850ac57b6091a7a3",
+      "palette": "from-image",
+      "license": null
+    },
+    {
+      "id": "astronaut",
+      "name": "Astronauta",
+      "image": "images/astronaut.jpg",
+      "preview": "images/astronaut.jpg",
+      "width": 736,
+      "height": 1308,
+      "bytes": 61594,
+      "sha256": "a479ac0ac14e538e4c2f2a076058a8a153e79e4f962a47e26cdce8d2be8ee348",
+      "palette": "from-image",
+      "license": null
+    },
+    {
+      "id": "winter",
+      "name": "Bosque de invierno",
+      "image": "images/winter.jpg",
+      "preview": "images/winter.jpg",
+      "width": 720,
+      "height": 1280,
+      "bytes": 94382,
+      "sha256": "15bc51e477032951f118ac5f23600aeaedd28ee626aad37b162d9689af49a4de",
+      "palette": "from-image",
+      "license": null
+    },
+    {
+      "id": "crab",
+      "name": "Cangrejito",
+      "image": "images/crab.jpg",
+      "preview": "images/crab.jpg",
+      "width": 736,
+      "height": 1104,
+      "bytes": 29689,
+      "sha256": "dc0f632bc669b259ecb5a1ab1ade5b5022aaf6c02a1a32f4fe8cdfdefef2cf76",
+      "palette": "from-image",
+      "license": null
+    },
+    {
+      "id": "city",
+      "name": "Ciudad en sombras",
+      "image": "images/city.jpg",
+      "preview": "images/city.jpg",
+      "width": 736,
+      "height": 1308,
+      "bytes": 120352,
+      "sha256": "6ace210d1545f5f338a264b70c83218e25e8ef81c6801d32e2912335e567d6ba",
+      "palette": "from-image",
+      "license": null
+    },
+    {
+      "id": "snails",
+      "name": "Caracoles",
+      "image": "images/snails.jpg",
+      "preview": "images/snails.jpg",
+      "width": 736,
+      "height": 1312,
+      "bytes": 62982,
+      "sha256": "acc9605121a9373d88869dc6dfb8ffcd82da65fa85643745a098b062f860596c",
+      "palette": "from-image",
+      "license": null
+    }
+  ]
+}
